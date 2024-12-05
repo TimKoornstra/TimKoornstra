@@ -1,33 +1,46 @@
-# Hi there, I'm Tim 👋
+<div align="center">
+  <h1>Hi there, I'm Tim 👋</h1>
+  <p>AI Developer | MSc in AI from Utrecht University | NLP Enthusiast</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tim-koornstra/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tim.koornstra@gmail.com)
+</div>
 
-I'm an AI Developer and recent graduate of a master's degree in AI at Utrecht University. I'm passionate about all things AI, with a specific interest in Natural Language Processing (NLP) and Computer Vision.
+## 🚀 About Me
 
-## 📚 My Highlighted Repositories
+I'm an AI Developer and recent graduate with a master's degree in AI from Utrecht University. My passion lies in artificial intelligence, with a particular focus on Natural Language Processing (NLP) and Computer Vision. I love building innovative solutions and contributing to open-source projects.
 
-Here are some of the projects I've worked on that I'm most proud of:
+## 📊 GitHub Stats
 
-- **[SAURON](https://github.com/timkoornstra/sauron)**: This repository contains the code for my master's thesis. By running this code, you can create a writing style representation transformer. It's a project I'm particularly proud of, as it represents the culmination of my studies in AI.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TimKoornstra&show_icons=true&theme=tokyonight" alt="Tim's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TimKoornstra&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-- **[VGSLify](https://github.com/timkoornstra/VGSLify)**: VGSLify is a powerful toolkit designed to simplify the process of defining, training, and interpreting deep learning models using the Variable-size Graph Specification Language (VGSL). Inspired by Tesseract's VGSL specs, VGSLify introduces a set of enhancements and provides a streamlined interface for both TensorFlow and, in future releases, PyTorch.
+## 🔥 Featured Projects
 
-- **[Automatic Piano Fingering](https://github.com/timkoornstra/automatic-piano-fingering)**: This is the code for my bachelor's thesis. It creates a Q-Learning algorithm from scratch to determine the most optimal piano fingering. This project was a great opportunity to apply AI to a unique and interesting problem.
+### Personal Projects
+- **[SAURON](https://github.com/timkoornstra/sauron)** - Writing style representation transformer for my master's thesis
+- **[VGSLify](https://github.com/timkoornstra/VGSLify)** - Toolkit for defining, training, and interpreting deep learning models
+- **[Automatic Piano Fingering](https://github.com/timkoornstra/automatic-piano-fingering)** - Q-Learning algorithm for piano fingering optimization
+- **[TiML](https://github.com/timkoornstra/TiML)** - From-scratch implementation of common machine learning methods
 
-- **[TiML](https://github.com/timkoornstra/TiML)**: This repository is a from-scratch implementation of the most common machine learning methods. It includes simple explanations and is implemented in Python + NumPy. This project was a great opportunity to delve deep into the inner workings of machine learning algorithms.
+### 🤝 Collaborations
+- **[FinTwit_Bot](https://github.com/StephanAkkerman/FinTwit_Bot)** - Discord bot for financial market insights from Twitter
+- **[FinTwitBERT](https://github.com/timkoornstra/FinTwitBERT)** - Specialized language model for financial Twitter analysis
+- **[Axie_Manager_Bot](https://github.com/StephanAkkerman/Axie_Manager_Bot)** - Discord bot for scholar management
 
-## 🤝 My Collaboration Efforts
+## 💻 Technologies & Tools
 
-I believe in the power of collaboration and have had the opportunity to work with some amazing teams. Here are a few collaborations I'm proud of:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 
-- **[FinTwit_Bot](https://github.com/StephanAkkerman/FinTwit_Bot)**: This is a Discord bot written in Python, with the purpose of providing an overview of the financial markets discussed on Twitter. The bot is able to distinguish multiple markets based on the tickers mentioned in the tweets and provides detailed information of the financial data discussed in a tweet.
+## 📫 Get in Touch
 
-- **[FinTwitBERT](https://github.com/timkoornstra/FinTwitBERT)**: FinTwitBERT is a language model specifically trained to understand and analyze financial conversations on Twitter. It's designed to pick up on the unique ways people talk about finance online, making it a valuable tool for anyone interested in financial trends and sentiments expressed through tweets. You can also check out our sentiment-specific model, **[FinTwitBERT-sentiment](https://huggingface.co/StephanAkkerman/FinTwitBERT-sentiment)** on HuggingFace.
+- Email: [tim.koornstra@gmail.com](mailto:tim.koornstra@gmail.com)
+- Open for collaborations and new opportunities!
 
-- **[Axie_Manager_Bot](https://github.com/StephanAkkerman/Axie_Manager_Bot)**: This is a Discord bot written in Python, with the purpose of helping our guild manage the scholars in our Discord server. It can be used by guilds with multiple scholars and different managers, who each have their own scholars and wallets.
-
-More collaboration projects to come...
-
-## 📫 How to reach me
-
-The best way to reach me is by email at [tim.koornstra@gmail.com](mailto:tim.koornstra@gmail.com). I'm always open to new opportunities and collaborations.
-
-Thanks for stopping by!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TimKoornstra&color=blueviolet" alt="Profile views" />
+</div>
