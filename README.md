@@ -26,9 +26,10 @@ I'm an AI Developer and recent graduate with a master's degree in AI from Utrech
 - **[TiML](https://github.com/timkoornstra/TiML)** - From-scratch implementation of common machine learning methods
 
 ### 🤝 Collaborations
-- **[FinTwit_Bot](https://github.com/StephanAkkerman/FinTwit_Bot)** - Discord bot for financial market insights from Twitter
 - **[FinTwitBERT](https://github.com/timkoornstra/FinTwitBERT)** - Specialized language model for financial Twitter analysis
-- **[Axie_Manager_Bot](https://github.com/StephanAkkerman/Axie_Manager_Bot)** - Discord bot for scholar management
+- **[FluentAI](https://github.com/StephanAkkerman/FluentAI)** - Accelerate language learning by enhancing Anki flashcards with AI generated mnemonics
+- **[FinTwit-Bot](https://github.com/StephanAkkerman/fintwit-bot)** - Discord bot for financial market insights from Twitter
+- **[Axie Manager Bot](https://github.com/StephanAkkerman/axie-manager-bot)** - Discord bot for scholar management
 
 ## 💻 Technologies & Tools
 
