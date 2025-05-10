@@ -39,7 +39,7 @@ I'm an AI Developer and recent graduate with a master's degree in AI from Utrech
 
 ## 📫 Get in Touch
 
-- Email: [tim.koornstra@gmail.com](mailto:tim.koornstra@gmail.com)
+- [Email](mailto:89044870+TimKoornstra@users.noreply.github.com)
 - Open for collaborations and new opportunities!
 
 <div align="center">
